@@ -33,7 +33,8 @@ body {
 }
 
 .instagram-phone img {
-    height: 300%;
+    height: 250px;
+    width: 300px;
 }
 
 footer {
